@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning VueJS  
   
 
-- ❓ Ask me about anything related to HTML / CSS / JS / ReactJS  
+- ❓ Ask me about anything related to HTML / CSS / JS / Wordpress / ReactJS  
   
 
 - ⚡ Fun fact: I only use Google search  
