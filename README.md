@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Omid, A simple frontend developer from Iran 👨‍💻 💪 <img src="https://komarev.com/ghpvc/?username=omoghadasi&&style=flat-square" align="center" /></div>  
+### <div align="center">I'm Omid, A simple junior developer on earth 👨‍💻 💪 <img src="https://komarev.com/ghpvc/?username=omoghadasi&&style=flat-square" align="center" /></div>  
 <br/>
   
 
