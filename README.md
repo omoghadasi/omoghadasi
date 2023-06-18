@@ -23,7 +23,7 @@
 
 
 ## My Skill 
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="35%">
 
 
 
@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="35%">
 
 
 
@@ -47,7 +47,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
 
 
 
