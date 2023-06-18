@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [markazeahan](https://www.markazeahan.com/)  
   
 
-- 🌱 I’m currently learning VueJS  
+- 🌱 I’m currently learning odoo  
   
 
 - ❓ Ask me about anything related to HTML / CSS / JS / Wordpress / ReactJS  
