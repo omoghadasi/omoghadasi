@@ -24,49 +24,28 @@ Recently, I've been diving deeper into **Python** 🐍 — and honestly, I'm lov
 
 ## 🛠️ What I Work With
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 20px 0;">
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 14px; text-align: center; transition: transform 0.2s, border-color 0.2s;">
-    <h3 style="color: #ff8a00; font-size: 16px; margin: 0 0 10px 0;">Full-Stack Development</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" width="28" height="28" title="React" alt="React">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nextdotjs.svg" width="28" height="28" title="Next.js" alt="Next.js">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodejs.svg" width="28" height="28" title="Node.js" alt="Node.js">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" width="28" height="28" title="Express" alt="Express">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/php.svg" width="28" height="28" title="PHP" alt="PHP">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/django.svg" width="28" height="28" title="Django" alt="Django">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" width="28" height="28" title="Python" alt="Python">
-    </div>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-%23ff8a00?style=for-the-badge" alt="Full-Stack Development" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,django,py" alt="React, Next.js, Node.js, Express, PHP, Django, Python" />
 
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 14px; text-align: center; transition: transform 0.2s, border-color 0.2s;">
-    <h3 style="color: #4dc9b5; font-size: 16px; margin: 0 0 10px 0;">Databases & Caching</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" width="28" height="28" title="MySQL" alt="MySQL">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postgresql.svg" width="28" height="28" title="PostgreSQL" alt="PostgreSQL">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" width="28" height="28" title="MongoDB" alt="MongoDB">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/redis.svg" width="28" height="28" title="Redis" alt="Redis">
-    </div>
-  </div>
+  <br/><br/>
 
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 14px; text-align: center; transition: transform 0.2s, border-color 0.2s;">
-    <h3 style="color: #f6c177; font-size: 16px; margin: 0 0 10px 0;">DevOps & Tools</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" width="28" height="28" title="Docker" alt="Docker">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="28" height="28" title="Git" alt="Git">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gitlab.svg" width="28" height="28" title="GitLab" alt="GitLab">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg" width="28" height="28" title="Linux" alt="Linux">
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/Databases_%26_Caching-%234dc9b5?style=for-the-badge" alt="Databases &amp; Caching" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB, Redis" />
 
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 14px; text-align: center; transition: transform 0.2s, border-color 0.2s;">
-    <h3 style="color: #9d4edd; font-size: 16px; margin: 0 0 10px 0;">AI & Machine Learning</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" width="28" height="28" title="TensorFlow" alt="TensorFlow">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pytorch.svg" width="28" height="28" title="PyTorch" alt="PyTorch">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jupyter.svg" width="28" height="28" title="Jupyter" alt="Jupyter">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" width="28" height="28" title="scikit-learn" alt="scikit-learn">
-    </div>
-  </div>
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/DevOps_%26_Tools-%23f6c177?style=for-the-badge" alt="DevOps &amp; Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux" alt="Docker, Git, GitLab, Linux" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-%239d4edd?style=for-the-badge" alt="AI &amp; Machine Learning" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, scikit-learn" />
 </div>
 
 ---
@@ -118,9 +97,7 @@ A real-time chat application built with NestJS, WebSocket, and modern frontend p
 
 </div>
 
-+<p style="color: #8b949e; font-size: 13px; margin-top: 8px; margin-bottom: 4px;">
-
-- 👉 <em>These are just a couple of samples — I'll be adding more of my work soon. Check out all <a href="https://github.com/omoghadasi?tab=repositories" style="color: #7ee787; text-decoration: none;">31 public repositories</a>!</em> +</p>
+<p align="center">👉 <em>These are just a couple of samples — I'll be adding more of my work soon. Check out all <a href="https://github.com/omoghadasi?tab=repositories">31 public repositories</a>!</em></p>
 
 ---
 
