@@ -24,28 +24,27 @@ Recently, I've been diving deeper into **Python** 🐍 — and honestly, I'm lov
 
 ## 🛠️ What I Work With
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-%23ff8a00?style=for-the-badge" alt="Full-Stack Development" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,django,py" alt="React, Next.js, Node.js, Express, PHP, Django, Python" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Databases_%26_Caching-%234dc9b5?style=for-the-badge" alt="Databases &amp; Caching" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB, Redis" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/DevOps_%26_Tools-%23f6c177?style=for-the-badge" alt="DevOps &amp; Tools" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux" alt="Docker, Git, GitLab, Linux" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-%239d4edd?style=for-the-badge" alt="AI &amp; Machine Learning" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, scikit-learn" />
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; max-width: 1000px; margin: 0 auto;">
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Full--Stack_Development-%23ff8a00?style=for-the-badge" alt="Full-Stack Development" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,django,py" alt="React, Next.js, Node.js, Express, PHP, Django, Python" />
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Databases_%26_Caching-%234dc9b5?style=for-the-badge" alt="Databases & Caching" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB, Redis" />
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/DevOps_%26_Tools-%23f6c177?style=for-the-badge" alt="DevOps & Tools" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,linux" alt="Docker, Git, GitLab, Linux" />
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-%239d4edd?style=for-the-badge" alt="AI & Machine Learning" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="TensorFlow, PyTorch, scikit-learn" />
+  </div>
 </div>
 
 ---
