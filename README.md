@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Omid Moghadasi</h1>
-  <h2>Software Development Team Lead | Full-Stack Developer | DevOps & Python Enthusiast</h2>
+  <h3>Software Development Team Lead | Full-Stack Developer | DevOps & Python Enthusiast</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=65FFDB&center=true&vCenter=true&width=800&height=50&lines=Software+Development+Team+Lead;Full-Stack+Developer;DevOps+%26+Python+Enthusiast;Building+end-to-end+systems+%F0%9F%9A%80;Always+Learning+%26+Experimenting+%F0%9F%92%AC" alt="typing" />
 </div>
 
@@ -71,17 +71,13 @@ Recently, I've been diving deeper into **Python** 🐍 — and honestly, I'm lov
   <a href="mailto:omoghadasi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14824.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://t.me/omoghadasi">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <sub>Let's connect if you're into building cool stuff, scaling systems, or just talking tech! 🚀</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jomei/attribution@master/assets/svg/copyright.svg" width="14" />
-  <span style="color: #8b949e; font-size: 12px;"> Theme: Dracula-inspired dark mode</span>
 </div>
