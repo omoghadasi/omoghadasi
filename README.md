@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Omid Moghadasi</h1>
-  <h3>Software Development Team Lead | Full-Stack Developer | DevOps & Python Enthusiast</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=65FFDB&center=true&vCenter=true&width=800&height=50&lines=Software+Development+Team+Lead;Full-Stack+Developer;DevOps+%26+Python+Enthusiast;Building+end-to-end+systems+%F0%9F%9A%80;Always+Learning+%26+Experimenting+%F0%9F%92%AC" alt="typing" />
+  <h3>Software Development Team Lead | Full-Stack Developer | DevOps & AI Enthusiast</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=65FFDB&center=true&vCenter=true&width=800&height=50&lines=Software+Development+Team+Lead;Full-Stack+Developer;DevOps+%26+AI+Enthusiast;Building+end-to-end+systems+%F0%9F%9A%80;Always+Learning+%26+Experimenting+%F0%9F%92%AC" alt="typing" />
 </div>
 
 ---
